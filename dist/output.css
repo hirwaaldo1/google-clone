@@ -567,6 +567,10 @@ video {
   bottom: 12px;
 }
 
+.bottom-0 {
+  bottom: 0px;
+}
+
 .m-auto {
   margin: auto;
 }
@@ -663,6 +667,10 @@ video {
 
 .gap-3 {
   gap: 0.75rem;
+}
+
+.overflow-x-hidden {
+  overflow-x: hidden;
 }
 
 .rounded-full {
