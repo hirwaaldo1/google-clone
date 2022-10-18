@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "app";
+    src: url("../font/KFOmCnqEu92Fr1Mu4mxK.woff2");
+}
+body{
+    font-family: 'app' !important;
+}
